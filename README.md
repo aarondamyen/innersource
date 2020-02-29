@@ -9,3 +9,4 @@
 - [Workflows](workflows/)
 
 This repository is licensed under [CC-by-4](../LICENSE) (c) 2019 GitHub, Inc.
+![gcc](https://github.com/DigiPen-CS315/assignment-1-aarondamyen/workflows/gcc/badge.svg)
